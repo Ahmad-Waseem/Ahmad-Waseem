@@ -49,11 +49,11 @@
         Next.js
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MERN_logo.svg" alt="MERN" width="60"/><br>
+        <img src="https://arkinfosoft.com/media/vxylqtub/group-1321316476.png" alt="MERN" width="60"/><br>
         MERN
       </td>
       <td align="center">
-        <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-ar21.png" alt="Selenium" width="60"/><br>
+        <img src="https://img.icons8.com/?size=512&id=38553&format=png" alt="Selenium" width="60"/><br>
         Selenium
       </td>
     </tr>
@@ -61,6 +61,7 @@
 </div>
 
 ### Noteworthy Projects
+- **ViTry: Virtual Try-On of dresses with Seamless Business Integrations NextJS, Python, AI**
 - **Doodlemark:** Landmark Classifier with TensorFlow, Python & CNN.
 - **ArenaGo:** Futsal Manager using Flutter, Dart & Firebase.
 - **NEXGEN:** Mitosis Detector powered by TensorFlow, Keras & Computer Vision.
