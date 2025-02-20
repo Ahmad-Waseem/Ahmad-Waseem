@@ -70,12 +70,12 @@
 
 ### Connect with Me
 <div align="center">
-  <a href="mailto:ahmedwaseem7686@gmail.com@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="mailto:ahmedwaseem7686@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/ahmadwaseeem23/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </div>
 
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Ahmad-Waseem-github&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?Ahmad-Waseem-github&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?Ahmad-Waseem&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?Ahmad-Waseem&theme=radical" alt="GitHub Streak">
 </div>
