@@ -56,10 +56,6 @@
         <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-ar21.png" alt="Selenium" width="60"/><br>
         Selenium
       </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="OpenAI" width="60"/><br>
-        OpenAI
-      </td>
     </tr>
   </table>
 </div>
