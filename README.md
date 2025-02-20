@@ -1,8 +1,8 @@
 <div align="center">
   <!-- Animated Banner -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated Banner" width="800" style="border-radius: 10px;">
+  <img src="https://github.com/Ahmad-Waseem/Introduction/blob/main/Vanilla%401x-1.0s-279px-43px.gif" alt="Animated Name"">
   <h1 style="font-size: 36px; margin: 10px;">Software Developer & AI Enthusiast</h1>
-  <h3 style="font-size: 20px; margin: 10px;">Ahmed Waseem</h3>
+  
   <marquee behavior="scroll" direction="left" scrollamount="10" style="font-size: 18px; margin: 10px;">
     Building things. Breaking things. Learning things. The usual.
   </marquee>
@@ -31,13 +31,34 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60"/><br>PHP
+        <a href="https://www.javascript.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60"/><br>
+          JavaScript
+        </a>
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60"/><br>HTML
       </td>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60"/><br>CSS
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60"/><br>
+        Next.js
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MERN_logo.svg" alt="MERN" width="60"/><br>
+        MERN
+      </td>
+      <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-ar21.png" alt="Selenium" width="60"/><br>
+        Selenium
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/OpenAI_Logo.svg" alt="OpenAI" width="60"/><br>
+        OpenAI
       </td>
     </tr>
   </table>
