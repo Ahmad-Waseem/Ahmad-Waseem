@@ -11,7 +11,7 @@
 ### About Me
 - **Developer & Designer** with 3 years of experience in C#, C++, Python, and more.
 - Passionate about **Machine Learning** using TensorFlow & Scikit-learn.
-- Diving deep into **Deep Learning, NLP, and DevOps** as I pursued BS in Computer Science.
+- Diving deep into **Deep Learning, NLP, and DevOps, Linux** as I pursued BS in Computer Science.
 - Skilled in **Graphics Design** with 4 years of creative expertise. Kind of Artistic 
 - I don’t settle for boring—if you’re not pushing boundaries, why bother?
 
